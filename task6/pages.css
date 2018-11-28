@@ -143,7 +143,7 @@ footer {
     background: url(images/house.png) no-repeat ;
     background-size: 35px;
     border: none;
-    width: 12%;
+    width: 30px;
     height: 35px;
     position: absolute;
     left: 15%;
@@ -158,9 +158,9 @@ footer {
 }
 .write {
     background: url(images/wenben.png) no-repeat;
-    background-size: 45px;
+    background-size: 50px;
     border: none;
-    width: 18%;
+    width: 50px;
     height: 50px;
     position: absolute;
     left: 0;
@@ -171,7 +171,7 @@ footer {
     background: url(images/touxiang.png) no-repeat;
     background-size: 35px;
     border: none;
-    width: 12%;
+    width: 35px;
     height: 35px;
     position: absolute;
     right: 15%;
